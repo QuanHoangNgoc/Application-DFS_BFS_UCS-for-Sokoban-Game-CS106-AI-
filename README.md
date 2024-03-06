@@ -14,7 +14,9 @@
 # Repo Branch 
 - MAIN: some resources, guideline, documents and reports of this project.
 - SOURCECODE: sourcecode of this project. 
-- [OneDrive]: Using to backup.
+- [OneDrive](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EuXhV_mF0uxJn75qkuz-FdUBuNKOyAOXv53GolTUMTuhNg?e=O6DMoV):
+  - Using to backup
+  - Submit files
 
 # Pipeline
 - DFS, BFS, UCS implementation with comment lines. Installing pygame and pyautogui libraries.
