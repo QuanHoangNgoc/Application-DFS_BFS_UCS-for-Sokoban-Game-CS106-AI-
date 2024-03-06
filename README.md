@@ -7,8 +7,8 @@
 - We can model Sokoban World by a search problem and apply algorithms such as DFS, BFS, UCS to search for a solution (a path) that can win the game. In these cases, UCS appears to be the better algorithm.
 - In the source code of this project, we use Python Programming Language to implement the algorithms, but the run time of programs is too long and slow (up hours). Instead of, you can use C++ as the backend of algorithms, it will significantly improve speed of algorithms based on data structure and  control structure, thus reducing the time and resources needed to experiment.
 ### show 
-- [report]()
-- [experiment process documents]()
+- [report](https://github.com/QuanHoangNgoc/Application_DFS_BFS_UCS_for_Sokoban_Game/blob/main/Documentations/Application%20of%20DFS%2C%20BFS%2C%20UCS%20for%20Sokoban%20Game.pdf)
+- [experiment process documents](https://github.com/QuanHoangNgoc/Application_DFS_BFS_UCS_for_Sokoban_Game/blob/main/Documentations/Ass1_exps.pdf)
 - [youtube demo]()
 
 # Repo Branch 
