@@ -9,12 +9,12 @@
 - In the source code of this project, we use Python Programming Language to implement the algorithms, but the run time of programs is too long and slow (up hours). Instead of, you can use C++ as the backend of algorithms, it will significantly improve speed of algorithms based on data structure and  control structure, thus reducing the time and resources needed to experiment.
 
 ### show-off 
-- [Application DFS BFS UCS for Sokoban Game - Modeling Search Problem - [AI course - CS106 - UIT]](https://youtu.be/s27dXLyyjzo?feature=shared)
+- [x] Video: [Application DFS BFS UCS for Sokoban Game - Modeling Search Problem - [AI course - CS106 - UIT]](https://youtu.be/s27dXLyyjzo?feature=shared)
 
 # Repo Structure:  
 - RESOURCES: some resources, guidelines, documents and reports of this project.
 - SOURCE CODE: source code of this project.
-- [Application_DFS_BFS_UCS_for_Sokoban_Game.ttnt](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EuXhV_mF0uxJn75qkuz-FdUBuNKOyAOXv53GolTUMTuhNg?e=O6DMoV)
+- [x] OneDrive: [Application_DFS_BFS_UCS_for_Sokoban_Game.ttnt](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EuXhV_mF0uxJn75qkuz-FdUBuNKOyAOXv53GolTUMTuhNg?e=O6DMoV)
   - Backup this project
   - Contain submit files   
 
