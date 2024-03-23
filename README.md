@@ -19,7 +19,7 @@
   - Contain submit files   
 
 # Pipeline: 
--DFS, BFS, UCS implementation with comment lines. Installing pygame and pyautogui libraries.
+- DFS, BFS, UCS implementation with comment lines. Installing pygame and pyautogui libraries.
 - Customize and configure the source code to suitable for performing experiment. 
 - Take a long time to experiment and study statistics. Experiment resources: Kaggle Colab P100 - 29GB RAM.
 - Present report and pack project process. 
