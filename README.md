@@ -27,7 +27,7 @@ This project is ideal for:
 ## 📁 Repo Structure
 - **RESOURCES**: Contains project guidelines, documents, and reports.
 - **SOURCE CODE**: Includes the implementation code.
-- **Backup**: [OneDrive Backup of Project Files](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EuXhV_mF0uxJn75qkuz-FdUBuNKOyAOXv53GolTUMTuhNg?e=O6DMoV)
+- **Backup**: **[OneDrive Backup of Project Files](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EuXhV_mF0uxJn75qkuz-FdUBuNKOyAOXv53GolTUMTuhNg?e=O6DMoV)**
 
 ---
 ## 🚀 How Did We Do It?
