@@ -21,7 +21,7 @@ This project is ideal for:
 - **Hobbyists**: Anyone interested in the intersection of algorithms and puzzles.  
 
 ### 🎥 Show-off
-- Watch the video demonstration: [Application DFS BFS UCS for Sokoban Game - Modeling Search Problem - [AI course - CS106 - UIT]](https://youtu.be/s27dXLyyjzo?feature=shared)
+- Watch the video demonstration: **[Application DFS BFS UCS for Sokoban Game - Modeling Search Problem - [AI course - CS106 - UIT]](https://youtu.be/s27dXLyyjzo?feature=shared)**
 
 ---
 ## 📁 Repo Structure
